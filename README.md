@@ -1,4 +1,4 @@
-# Kylien verkkotunnukset
+# Verkkotunnuksia kyliä varten
 
 Tämän ehdotuksen perusteella Kuhmon maaseudun kyliä voi tukea, jotta ne voisivat mahdollistaa tietoyhteiskunnan ensimmäisiä rakenteita. Tarkoituksena on toimia tavalla, joka noudattaa älykkään maaseudun ja kestävän kehityksen periaatteita. Kuvauksessa keskitytään uudistukseen, jonka perusteella kaupunki voi vähäisellä kustannuksella ja ylläpidolla tuottaa kyliä varten voimavaran, joka vähentää www-sivuja ylläpitävien kylien vuosittaisia internetmaksuja. Tähtäimessä on myös tuottaa julkaisualusta sellaisille pienemmille kylille, joilla ei vielä ole ollut mahdollisuutta ylläpitää omaa WWW-sivustoa. 
 
