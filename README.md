@@ -6,6 +6,6 @@ Idea perustuu siihen, että Kuhmo - kuten monet muutkin kunnat - on hankkinut ni
 
 Kuhmossa on tavoiteltu sopimuksellisuutta. Jos kunta tukee kylien tiedotustarpeita tässä ehdotuksessa kuvatulla tavalla, tämä voisi olla ensi askel sopimuksellisuuden rakentamisessa. Tiettävästi vastaavanlaista rakennetta ei ole keksitty hyödyntää muualla Suomessa, jolloin Kuhmolla on mahdollisuus toimia edelläkävijänä.
 
-Toimenpidettä on tarkoitus toteuttaa vaiheittain. Toimenpide kohdistuu ensimmäisessä vaiheessa Luoteis-Kuhmon kyliin (Hietaperä, Ala-Vieksi, Ylä-Vieksi, Härmänkylä, Kuusamonkylä, Iivantiira), joihin rakennettu nopeaa laajakaistaa. Kyliä varten on haettu LähiTapiolan Koillismaanaluekehitysrahaa, jolla on tarkoitus hankkia jokaista kylää varten oman WWW-julkaisualustan tuottavan pienoistietokoneen.
+Toimenpidettä on tarkoitus toteuttaa vaiheittain. Toimenpide kohdistuu ensimmäisessä vaiheessa Luoteis-Kuhmon kyliin (Hietaperä, Ala-Vieksi, Ylä-Vieksi, Härmänkylä, Kuusamonkylä, Iivantiira), joihin on jo rakennettu nopeaa laajakaistaa. Kyliä varten on haettu LähiTapiolan Koillismaanaluekehitysrahaa, jolla on tarkoitus hankkia jokaista kylää varten oman WWW-julkaisualustan tuottavan pienoistietokoneen.
 
 Tämä sivusto toimii myös esimerkkinä siitä miten digitaalista kuilua voi pienentää julkaisutoimintaa helpottavalla yksinkertaisella toimenpiteellä. Tämä suunnitelma on kirjoitettu Markdown-merkinnöillä jotka julkaisualusta muokkaa läpinäkyvästi HTML-sivuiksi.
