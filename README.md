@@ -4,7 +4,7 @@ Tämän ehdotuksen perusteella Kuhmon maaseudun kyliä voi tukea, jotta ne voisi
 
 Idea perustuu siihen, että Kuhmo - kuten monet muutkin kunnat - on hankkinut nimensä mukaisen toimialuenimen (engl. domain name) kuhmo.fi. Järjestely nojautuu ajatukseen, että fi on Suomen maatunnus. Kuhmo on siis hierarkkisesti maatunnuksen alla toimiva kunta. Samaa ajatusta soveltaen jokaisella kylällä voisi luontevasti olla kunnan alitoimialuenimi kunnan alaisuudessa: lentiira.kuhmo.fi, iivantiira.kuhmo.fi jne. Näiden perustaminen ei maksa kunnalle mitään muuta kuin toimialuenimen perustamisen ja nimeä koskevan tiedon ylläpidon verran. 
 
-Kuhmossa on tavoiteltu sopimuksellisuutta. Jos kunta tällä tavalla tukee kylien tiedotustarpeita, voisi tämä olla ensi askel sopimuksellisuuden rakentamisessa. Tiettävästi vastaavanlaista rakennetta ei ole keksitty hyödyntää muualla Suomessa, jolloin Kuhmolla on mahdollisuus toimia edelläkävijänä.
+Kuhmossa on tavoiteltu sopimuksellisuutta. Jos kunta tukee kylien tiedotustarpeita tässä ehdotuksessa kuvatulla tavalla, tämä voisi olla ensi askel sopimuksellisuuden rakentamisessa. Tiettävästi vastaavanlaista rakennetta ei ole keksitty hyödyntää muualla Suomessa, jolloin Kuhmolla on mahdollisuus toimia edelläkävijänä.
 
 Toimenpidettä on tarkoitus toteuttaa vaiheittain. Toimenpide kohdistuu ensimmäisessä vaiheessa Luoteis-Kuhmon kyliin (Hietaperä, Ala-Vieksi, Ylä-Vieksi, Härmänkylä, Kuusamonkylä, Iivantiira), joihin rakennettu nopeaa laajakaistaa. Kyliä varten on haettu LähiTapiolan Koillismaanaluekehitysrahaa, jolla on tarkoitus hankkia jokaista kylää varten oman WWW-julkaisualustan tuottavan pienoistietokoneen.
 
