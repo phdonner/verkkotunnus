@@ -13,6 +13,15 @@ flowchart RL
     C --- F(iivantiira)
    A(fi)  ---- C(kuhmo)
 ```
+```mermaid
+flowchart LR
+   A(vartius)    --- D
+   B(lentiira)   --- D
+   C(iivantiira) --- D
+   D(kuhmo)   ---- F(fi)
+   E(sotkamo) ---- F(fi)
+   G(kajaani) ---- F(fi)
+```
 
 Verkkotunnoksien perustaminen ei maksa kunnalle mitään muuta kuin verkkotunnuksen perustamiseen liittyvän työpanoksen ja näitä paikkakuntakohtaisia domain-nimiä koskevan tiedon ylläpidon verran. Järjestelmän sisäänajon jälkeen kyseisiä muutoksia tapahtuu ani harvoin. Esimerkiksi Iivantiiran verkkosivuston tiedot eivät ole kylän www-sivuston perustamisen jälkeen kertaakaan muuttuneet.
 
