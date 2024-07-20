@@ -1,4 +1,4 @@
-# Verkkotunnuksia Kuhmon kyliä varten
+# Verkkotunnus jokaista Kuhmon kylää varten
 
 Kuhmon maaseudun kyliä tulee tukea, jotta ne voivat hyötyä suomalaisesta tietoyhteiskunnasta ja oppivat esimerkin avulla osallistumaan tietoyhteiskunnan rakentamiseen. Tarkoituksena on toteuttaa älykkään maaseudun ja kestävän kehityksen periaatteita yksinkertaisilla ja helposti ymmärrettävillä toimenpiteillä. 
 
