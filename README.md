@@ -6,6 +6,13 @@ Kuhmon kaupunki voi vähäisellä kustannuksella ja ylläpidolla tuottaa kylien 
 
 Idea perustuu siihen, että Kuhmo - kuten monet muutkin kunnat - on hankkinut nimensä mukaisen verkkotunnuksen (eli domain-nimen) kuhmo.fi. Järjestely nojautuu ajatukseen, että fi on Suomen maatunnus. kuhmo.fi on siis hierarkkisesti maatunnuksen alla toimiva kunta. Samaa ajatusta soveltaen jokaisella kylällä voi luontevasti olla kunnan alitoimialuenimi kunnan alaisuudessa, muotoa: lentiira.kuhmo.fi, iivantiira.kuhmo.fi jne. Järjestelyn perusteella käyttäjät ymmärtävät, että Lentiira ja Iivantiira sijaitsevat Kuhmossa, samalla tavalla kuten fi-tunnus viestii, että Kuhmo sijaitsee Suomessa.
 
+```flowchart RL
+    C --- D(vartius)
+    C --- E(lentiira)
+    C --- F(iivantiira)
+   A(fi)  ---- C(kuhmo)
+```
+
 Verkkotunnoksien perustaminen ei maksa kunnalle mitään muuta kuin verkkotunnuksen perustamiseen liittyvän työpanoksen ja näitä paikkakuntakohtaisia domain-nimiä koskevan tiedon ylläpidon verran. Järjestelmän sisäänajon jälkeen kyseisiä muutoksia tapahtuu ani harvoin. Esimerkiksi Iivantiiran verkkosivuston tiedot eivät ole kylän www-sivuston perustamisen jälkeen kertaakaan muuttuneet.
 
 Kuhmossa on tavoiteltu sopimuksellisuutta. Jos kunta tukee kylien tiedotustarpeita tässä ehdotuksessa kuvatulla tavalla, tämä voisi olla ensi askel sopimuksellisuuden rakentamisessa. 
