@@ -16,7 +16,7 @@ flowchart LR
    G(kajaani) ---- F(fi)
 ```
 
-Verkkotunnoksien perustaminen ei maksa kunnalle mitään muuta kuin verkkotunnuksen perustamiseen liittyvän työpanoksen ja näitä paikkakuntakohtaisia domain-nimiä koskevan tiedon ylläpidon verran. Järjestelmän sisäänajon jälkeen kyseisiä muutoksia tapahtuu ani harvoin. Esimerkiksi Iivantiiran verkkosivuston tiedot eivät ole kylän www-sivuston perustamisen jälkeen kertaakaan muuttuneet.
+Verkkotunnusten perustaminen ei maksa kunnalle mitään muuta kuin verkkotunnuksen perustamiseen liittyvän työpanoksen ja näitä paikkakuntakohtaisia domain-nimiä koskevan tiedon ylläpidon verran. Järjestelmän sisäänajon jälkeen kyseisiä muutoksia tapahtuu ani harvoin. Esimerkiksi Iivantiiran verkkosivuston tiedot eivät ole kylän www-sivuston perustamisen jälkeen kertaakaan muuttuneet.
 
 Kuhmossa on tavoiteltu sopimuksellisuutta. Jos kunta tukee kylien tiedotustarpeita tässä ehdotuksessa kuvatulla tavalla, tämä voisi olla ensi askel sopimuksellisuuden rakentamisessa. 
 
