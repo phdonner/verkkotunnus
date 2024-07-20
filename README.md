@@ -8,7 +8,7 @@ Idea perustuu siihen, että Kuhmo - kuten monet muutkin kunnat - on hankkinut ni
 
 ```mermaid
 flowchart LR
-   A(*vartius*)    --- D
+   A(vartius)    --- D
    B(lentiira)   --- D
    C(iivantiira) --- D
    D(kuhmo)   ---- F(fi)
