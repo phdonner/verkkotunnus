@@ -1,6 +1,6 @@
 # Verkkotunnus jokaista Kuhmon kylää varten
 
-Kunnan perustehtävänä on edistää kuntalaisten hyvinvointia, yhteisöllisyyttä ja alueen elinvoimaa. Kuhmon maaseudun kyliä tulee tukea, jotta ne voivat hyötyä suomalaisesta tietoyhteiskunnasta ja oppia esimerkkien avulla osallistumaan tietoyhteiskunnan rakentamiseen. Tarkoituksena on toteuttaa älykkään maaseudun ja kestävän kehityksen periaatteita yksinkertaisilla ja helposti ymmärrettävillä toimenpiteillä, joista kylien verkkotunnuksien perustaminen on ensimmäinen askel.
+Kunnan perustehtävänä on edistää kuntalaisten hyvinvointia, yhteisöllisyyttä ja alueen elinvoimaa. Kuhmon maaseudun kyliä tulee tukea, jotta ne voivat hyötyä suomalaisesta tietoyhteiskunnasta ja oppia esimerkkien avulla osallistumaan tietoyhteiskunnan rakentamiseen. Tämän ehdotuksen tarkoituksena on toteuttaa älykkään maaseudun ja kestävän kehityksen periaatteita yksinkertaisilla ja helposti ymmärrettävillä toimenpiteillä, joista kylien verkkotunnuksien perustaminen on ensimmäinen askel.
 
 Kaupunki voi vähäisellä kustannuksella ja ylläpidolla tuottaa kylien julkaisutoiminnassa tarvittavat verkkotunnukset. Toimenpide luo uuden voimavaran, joka vähentää www-sivuja ylläpitävien kylien vuosittaisia internetmaksuja. Kustannustehokkuuden lisäksi, tällaisen nolla-marginaalia lähentelevän kehitystyön pitemmän aikavälin tavoitteena on tuottaa julkaisualusta myös sellaisille pienemmille kylille, joilla ei vielä ole ollut mahdollisuutta ylläpitää omaa WWW-sivustoa.
 
