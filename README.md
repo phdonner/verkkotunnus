@@ -15,7 +15,7 @@ flowchart BT
    D(kuhmo)   ---- F(fi)
    E(sotkamo) ---- F(fi)
    G(kajaani) ---- F(fi)
-   H(ax)
+   D(kuhmo)   ~~~ H(ax)
 ```
 
 Verkkotunnusten aikaansaaminen ei maksa kunnalle mitään muuta kuin verkkotunnuksen perustamiseen liittyvän työpanoksen ja näitä paikkakuntakohtaisia domain-nimiä koskevan tiedon ylläpidon verran. Järjestelmän sisäänajon jälkeen kyseisiä muutoksia tapahtuu ani harvoin. Esimerkiksi Iivantiiran WWW-sivuston verkkotunnuksen tiedot eivät ole kylän sivuston perustamisen jälkeen kertaakaan muuttuneet.
