@@ -19,7 +19,7 @@ flowchart BT
 
 Verkkotunnusten aikaansaaminen ei maksa kunnalle mitään muuta kuin verkkotunnuksen perustamiseen liittyvän työpanoksen ja näitä paikkakuntakohtaisia domain-nimiä koskevan tiedon ylläpidon verran. Järjestelmän sisäänajon jälkeen kyseisiä muutoksia tapahtuu ani harvoin. Esimerkiksi Iivantiiran WWW-sivuston verkkotunnuksen tiedot eivät ole kylän sivuston perustamisen jälkeen kertaakaan muuttuneet.
 
-Kuhmossa on tavoiteltu sopimuksellisuutta. Jos kunta tukee kylien tiedotustarpeita tässä ehdotuksessa kuvatulla tavalla, tämä voisi olla ensi askel sopimuksellisuuden rakentamisessa. Vastavuoroisuudessa tarvitaan kuitenkin vähintään kaksi yhteisöllisesti toimivaa osapuolta.
+Kuhmossa on tavoiteltu sopimuksellisuutta. Jos kunta tukee kylien tiedotustarpeita tässä ehdotuksessa kuvatulla tavalla, tämä voisi olla ensi askel Kuhmossa tavoitellun sopimuksellisuuden rakentamisessa. Vastavuoroisuudessa tarvitaan kuitenkin vähintään kaksi yhteisöllisesti toimivaa osapuolta.
 
 Toimenpidettä on tarkoitus toteuttaa vaiheittain. Uudistus kohdistuu ensimmäisessä vaiheessa Luoteis-Kuhmon kyliin (Hietaperä, Ala-Vieksi, Ylä-Vieksi, Härmänkylä, Kuusamonkylä, Iivantiira), joihin on jo rakennettu nopeaa laajakaistaa. Kyläverkot rakentanut osuuskunta on haettu LähiTapiola Kainuu-Koillismaa Oy:n aluekehitysrahaa kyliä varten. Tuella on tarkoitus hankkia jokaista Luoteis-Kuhmon kylää varten oman WWW-julkaisualustan tuottavan pienoistietokoneen.
 
