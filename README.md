@@ -8,7 +8,7 @@ Idea perustuu siihen, että Kuhmo — kuten kaikki Suomen kunnat — on hankkinu
 
 ```mermaid
 %%{init: {'theme':'forest'}}%%
-flowchart TD
+flowchart DT
    A(vartius)  --- D
    B(lentiira)   --- D
    C(iivantiira) --- D
