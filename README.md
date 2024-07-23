@@ -9,15 +9,12 @@ Idea perustuu siihen, että Kuhmo — kuten kaikki Suomen kunnat — on hankkinu
 ```mermaid
 %%{init: {'theme':'forest'}}%%
 flowchart BT
-   A(vartius)  --- D
+   A(vartius)    --- D
    B(lentiira)   --- D
    C(iivantiira) --- D
    D(kuhmo)   ---- F(fi)
    E(sotkamo) ---- F(fi)
    G(kajaani) ---- F(fi)
-   D(kuhmo)   ~~~ H(ax)
-   E(sotkamo) ~~~ F(ax)
-   G(kajaani) ~~~ F(ax)
 ```
 
 Verkkotunnusten aikaansaaminen ei maksa kunnalle mitään muuta kuin verkkotunnuksen perustamiseen liittyvän työpanoksen ja näitä paikkakuntakohtaisia domain-nimiä koskevan tiedon ylläpidon verran. Järjestelmän sisäänajon jälkeen kyseisiä muutoksia tapahtuu ani harvoin. Esimerkiksi Iivantiiran WWW-sivuston verkkotunnuksen tiedot eivät ole kylän sivuston perustamisen jälkeen kertaakaan muuttuneet.
