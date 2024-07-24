@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme':'forest'}}%%
 flowchart BT
    A(vartius)    --- D
@@ -6,3 +7,4 @@ flowchart BT
    D(kuhmo)   ---- F(fi)
    E(sotkamo) ---- F(fi)
    G(kajaani) ---- F(fi)
+```
