@@ -1,6 +1,6 @@
 # Verkkotunnus jokaista Kuhmon kylää varten
 
-_English summary: This proposal aims at promoting the information society process by a simple and cost-effective pilot in Kuhmo. It builds on the hierarchical structure of the domain name system. Local villages can benefit from domain names provided by the municipality. A village based domain name system would immediately signal the location of the village; something which could be easy to learn by users and administrators._
+_English summary: This proposal aims at promoting the Finnish information society construction process by a simple and cost-effective pilot in Kuhmo. It builds on the hierarchical structure of the domain name system. Local villages can benefit from domain names provided by the municipality. A village based domain name system would immediately signal the location of the village; something which could be easy to learn by users and administrators._
 
 Kunnan perustehtävänä on edistää kuntalaisten hyvinvointia, yhteisöllisyyttä ja alueen elinvoimaa. Kuhmon maaseudun kyliä tulee tukea, jotta ne voivat hyötyä suomalaisesta tietoyhteiskunnasta ja oppia esimerkkien avulla osallistumaan suomalaisen tietoyhteiskunnan rakentamiseen. 
 
