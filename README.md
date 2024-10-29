@@ -1,5 +1,7 @@
 # Verkkotunnus jokaista Kuhmon kylää varten
 
+_English summary: This proposal aims at promoting the information society process by a simple and cost-effective pilot in Kuhmo. It builds on the hierarchical structure of the domain name system. Local villages could benefit from domain names provided by the municipality. A village based domain name system would immediately signal the location of the village; something which could be easy to learn by users and administrators._
+
 Kunnan perustehtävänä on edistää kuntalaisten hyvinvointia, yhteisöllisyyttä ja alueen elinvoimaa. Kuhmon maaseudun kyliä tulee tukea, jotta ne voivat hyötyä suomalaisesta tietoyhteiskunnasta ja oppia esimerkkien avulla osallistumaan Suomen tietoyhteiskunnan rakentamiseen. 
 
 Tämän ehdotuksen tarkoituksena on toteuttaa älykkään maaseudun ja kestävän kehityksen periaatteita yksinkertaisilla ja helposti ymmärrettävillä toimenpiteillä, joista kylien verkkotunnuksien perustaminen on ensimmäinen askel.
@@ -8,7 +10,7 @@ Kuhmon kaupunki voi vähäisellä kustannuksella ja ylläpidolla tuottaa kylien 
 
 Idea perustuu siihen, että Kuhmo — kuten kaikki Suomen kunnat — on hankkinut nimensä mukaisen verkkotunnuksen (toimialue- eli domain-nimen) **kuhmo.fi**. Järjestely nojautuu ajatukseen, että **fi** on Suomen maatunnus (Ahvenanmaan maatunnus on **ax**). **kuhmo.fi** on siis hierarkkisesti maatunnuksen alla toimiva kuntatunnus, siinä missä **sotkamo.fi** ja **kajaani.fi**. 
 
-Samaa ajatusta soveltaen jokaisella kylällä voi luontevasti olla oma alitoimialuenimi kunnan alaisuudessa: **vartius.kuhmo.fi**, **lentiira.kuhmo.fi**, **iivantiira.kuhmo.fi** jne. Järjestelyn perusteella ulkopuoliset käyttäjät ymmärtävät, että Lentiira ja Iivantiira sijaitsevat Kuhmossa, samalla tavalla kuten fi-tunnus viestii, että Kuhmo sijaitsee Suomessa.
+Samaa ajatusta soveltaen jokaisella kylällä voi luontevasti olla oma alitoimialuenimi kunnan alaisuudessa: **vartius.kuhmo.fi**, **lentiira.kuhmo.fi**, **iivantiira.kuhmo.fi** jne. Järjestelyn perusteella ulkopuoliset käyttäjät ymmärtävät, että Lentiira ja Iivantiira sijaitsevat Kuhmossa, samalla tavalla kuten fi-tunnus viestii ulkomaalaisille, että Kuhmo sijaitsee Suomessa.
 
 ![domainname diagram](domainnamediagram.png)
 
