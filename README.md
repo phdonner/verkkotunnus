@@ -18,7 +18,7 @@ Verkkotunnusten aikaansaaminen ei maksa kunnalle muuta kuin tunnuksien perustami
 
 Kuhmossa on tavoiteltu sopimuksellisuutta. Jos kunta tukee kylien tiedotustarpeita tässä ehdotuksessa kuvatulla tavalla, uudistus voisi olla ensi askel Kuhmossa tavoitellun sopimuksellisuuden rakentamisessa. Vastavuoroisuudessa tarvitaan kuitenkin vähintään kaksi yhteisöllisesti toimivaa osapuolta.
 
-Toimenpidettä on tarkoitus toteuttaa vaiheittain. Uudistus kohdistuu ensimmäisessä vaiheessa Luoteis-Kuhmon kyliin (Hietaperä, Ala-Vieksi, Ylä-Vieksi, Härmänkylä, Kuusamonkylä, Iivantiira), joihin on jo rakennettu nopeaa laajakaistaa. Kyläverkot rakentanut osuuskunta on hakenut LähiTapiola Kainuu-Koillismaa Oy:n aluekehitysrahaa kylien palvelimia varten. Tuella on tarkoitus hankkia jokaista Luoteis-Kuhmon kylää varten oman WWW-julkaisualustan tuottavan pienoistietokoneen.
+Toimenpidettä on tarkoitus toteuttaa vaiheittain. Uudistus kohdistuu ensimmäisessä vaiheessa Luoteis-Kuhmon kyliin (Hietaperä, Ala-Vieksi, Ylä-Vieksi, Härmänkylä, Kuusamonkylä, Iivantiira), joihin on jo rakennettu nopeaa laajakaistaa. Osuuskunnalla on tarkoitus hankkia jokaista Luoteis-Kuhmon kylää varten oman WWW-julkaisualustan tuottavan pienoistietokoneen. Samoilla keskitetysti varmennetuilla koneilla tuotetaan myös kaikkia muita kyläkohtaisia palveluja.
 
 Idean vaikuttavuudesta voinee todeta, että vastaavanlaista rakennetta ei tiettävästi ole keksitty hyödyntää muualla Suomessa. Tällöin Kuhmolla on mahdollisuus toimia edelläkävijänä. 
 
