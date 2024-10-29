@@ -2,9 +2,13 @@
 
 _English summary: This proposal aims at promoting the Finnish information society construction process by a simple and cost-effective pilot in Kuhmo. It builds on the hierarchical structure of the domain name system. Local villages can benefit from domain names provided by the municipality. A village based domain name system would immediately signal the location of the village; something which could be easy to learn by users and administrators._
 
-Kunnan perustehtävänä on edistää kuntalaisten hyvinvointia, yhteisöllisyyttä ja alueen elinvoimaa. Kuhmon maaseudun kyliä tulee tukea, jotta ne voivat hyötyä suomalaisesta tietoyhteiskunnasta ja oppia esimerkkien avulla osallistumaan suomalaisen tietoyhteiskunnan rakentamiseen. 
+Kunnan perustehtävänä on edistää kuntalaisten hyvinvointia, yhteisöllisyyttä ja alueen elinvoimaa. Kuhmon maaseudun kyliä tulee tukea, jotta ne voivat hyötyä suomalaisesta tietoyhteiskunnasta. Verkkosivujen avulla kylät voivat tiedottaa yhteisestä toiminnasta. Yhteisöllisesti tuotettujen esimerkkien avulla asukkaat ja yritykset oppivat rakentamaan suomalaista tietoyhteiskuntaa. 
 
-Tämän ehdotuksen tarkoituksena on toteuttaa älykkään maaseudun ja kestävän kehityksen periaatteita yksinkertaisilla ja helposti ymmärrettävillä toimenpiteillä, joista kylien verkkotunnuksien perustaminen on ensimmäinen askel.
+Tämän ehdotuksen tarkoituksena on toteuttaa älykkään maaseudun ja kestävän kehityksen periaatteita yksinkertaisilla ja helposti ymmärrettävillä toimenpiteillä. Kylien verkkotunnuksien perustaminen on ensimmäinen askel. 
+
+Verkkotunnukset eivät palvele pelkästään WWW-sivustojen julkaisemista, vaan se helpottaa kaikkea internetliikennettä korvaamalla numeroihin perustuvat osoitteet helposti opittavilla nimillä.
+
+<!-- Tähän kaavio siitä miten nettinoste.fi vastaa ip-osoitettta -->
 
 Kuhmon kaupunki voi vähäisellä kustannuksella ja ylläpidolla tuottaa kylien verkkopalveluissa, erityisesti julkaisutoiminnassa tarvittavat verkkotunnukset. Kylien verkkotunnukset luovat uuden voimavaran, joka vähentää www-sivustoja ylläpitävien kylien vuosittaisia internetmaksuja. Kulujen nolla-marginaalia edistävän kehitystyön pidemmän aikavälin tavoitteena on tuottaa julkaisualusta myös sellaisille pienemmille kylille, joilla ei vielä ole ollut taloudellisia edellytyksiä ylläpitää omaa WWW-sivustoa.
 
@@ -22,4 +26,4 @@ Toimenpidettä on tarkoitus toteuttaa vaiheittain. Uudistus kohdistuu ensimmäis
 
 Idean vaikuttavuudesta voinee todeta, että vastaavanlaista rakennetta ei tiettävästi ole keksitty hyödyntää muualla Suomessa. Tällöin Kuhmolla olisi mahdollisuus toimia edelläkävijänä. 
 
-Kylien verkkojulkaisutoimintaa voi tukea monella muullakin tavalla. Tämä WWW-sivu toimii esimerkkinä siitä, miten digitaalista kuilua voi pienentää julkaisutoimintaa helpottavalla yksinkertaisilla toimenpiteillä. Suunnitelma on kirjoitettu nopeasti opeteltujen Markdown-merkintöjen avulla. Julkaisualusta muuntaa Markdown-tekstin läpinäkyvästi WWW:ssä julkaistavaksi HTML-sivuksi.
+Kylien verkkojulkaisutoimintaa voi tukea monella muullakin tavalla. Tämä WWW-sivu toimii esimerkkinä siitä, miten digitaalista kuilua voi pienentää julkaisutoimintaa helpottavalla yksinkertaisilla toimenpiteillä. Suunnitelma on kirjoitettu nopeasti opittujen Markdown-merkintöjen avulla. Julkaisualusta muuntaa Markdown-tekstin läpinäkyvästi WWW:ssä julkaistavaksi HTML-sivuksi.
