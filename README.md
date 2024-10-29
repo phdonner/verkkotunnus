@@ -4,7 +4,7 @@ Kunnan perustehtävänä on edistää kuntalaisten hyvinvointia, yhteisöllisyyt
 
 Tämän ehdotuksen tarkoituksena on toteuttaa älykkään maaseudun ja kestävän kehityksen periaatteita yksinkertaisilla ja helposti ymmärrettävillä toimenpiteillä, joista kylien verkkotunnuksien perustaminen on ensimmäinen askel.
 
-Kuhmon kaupunki voi vähäisellä kustannuksella ja ylläpidolla tuottaa kylien julkaisutoiminnassa tarvittavat verkkotunnukset. Kylien verkkotunnukset luovat uuden voimavaran, joka vähentää www-sivustoja ylläpitävien kylien vuosittaisia internetmaksuja. Kulujen nolla-marginaalia edistävän kehitystyön pidemmän aikavälin tavoitteena on tuottaa julkaisualusta myös sellaisille pienemmille kylille, joilla ei vielä ole ollut taloudellisia edellytyksiä ylläpitää omaa WWW-sivustoa.
+Kuhmon kaupunki voi vähäisellä kustannuksella ja ylläpidolla tuottaa kylien verkkopalveluissa, erityisesti julkaisutoiminnassa tarvittavat verkkotunnukset. Kylien verkkotunnukset luovat uuden voimavaran, joka vähentää www-sivustoja ylläpitävien kylien vuosittaisia internetmaksuja. Kulujen nolla-marginaalia edistävän kehitystyön pidemmän aikavälin tavoitteena on tuottaa julkaisualusta myös sellaisille pienemmille kylille, joilla ei vielä ole ollut taloudellisia edellytyksiä ylläpitää omaa WWW-sivustoa.
 
 Idea perustuu siihen, että Kuhmo — kuten kaikki Suomen kunnat — on hankkinut nimensä mukaisen verkkotunnuksen (toimialue- eli domain-nimen) **kuhmo.fi**. Järjestely nojautuu ajatukseen, että **fi** on Suomen maatunnus (Ahvenanmaan maatunnus on **ax**). **kuhmo.fi** on siis hierarkkisesti maatunnuksen alla toimiva kuntatunnus, siinä missä **sotkamo.fi** ja **kajaani.fi**. 
 
