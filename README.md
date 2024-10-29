@@ -22,4 +22,4 @@ Toimenpidettä on tarkoitus toteuttaa vaiheittain. Uudistus kohdistuu ensimmäis
 
 Idean vaikuttavuudesta voinee todeta, että vastaavanlaista rakennetta ei tiettävästi ole keksitty hyödyntää muualla Suomessa. Tällöin Kuhmolla on mahdollisuus toimia edelläkävijänä. 
 
-Tämä WWW-sivu toimii esimerkkinä siitä, miten digitaalista kuilua voi pienentää julkaisutoimintaa helpottavalla yksinkertaisilla toimenpiteillä. Suunnitelma on kirjoitettu Markdown-merkintöjen avulla. Ilmainen julkaisualusta GitHub muuntaa Markdown-tekstin läpinäkyvästi WWW:ssä julkaistavaksi HTML-sivuksi.
+Kylien verkkojulkaisutoimintaa voi tukea monella muullakin tavalla. Tämä WWW-sivu toimii esimerkkinä siitä, miten digitaalista kuilua voi pienentää julkaisutoimintaa helpottavalla yksinkertaisilla toimenpiteillä. Suunnitelma on kirjoitettu nopeasti opeteltujen Markdown-merkintöjen avulla. Julkaisualusta muuntaa Markdown-tekstin läpinäkyvästi WWW:ssä julkaistavaksi HTML-sivuksi.
