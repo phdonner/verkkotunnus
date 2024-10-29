@@ -20,6 +20,6 @@ Kuhmossa on tavoiteltu sopimuksellisuutta. Jos kunta tukee kylien tiedotustarpei
 
 Toimenpidettä on tarkoitus toteuttaa vaiheittain. Uudistus kohdistuu ensimmäisessä vaiheessa Luoteis-Kuhmon kyliin (Hietaperä, Ala-Vieksi, Ylä-Vieksi, Härmänkylä, Kuusamonkylä, Iivantiira), joihin on jo rakennettu nopeaa laajakaistaa. Osuuskunnalla on tarkoitus hankkia jokaista Luoteis-Kuhmon kylää varten oman WWW-julkaisualustan tuottavan pienoistietokoneen. Samoilla keskitetysti varmennetuilla koneilla tuotetaan myös kaikkia muita kyläkohtaisia palveluja.
 
-Idean vaikuttavuudesta voinee todeta, että vastaavanlaista rakennetta ei tiettävästi ole keksitty hyödyntää muualla Suomessa. Tällöin Kuhmolla on mahdollisuus toimia edelläkävijänä. 
+Idean vaikuttavuudesta voinee todeta, että vastaavanlaista rakennetta ei tiettävästi ole keksitty hyödyntää muualla Suomessa. Tällöin Kuhmolla olisi mahdollisuus toimia edelläkävijänä. 
 
 Kylien verkkojulkaisutoimintaa voi tukea monella muullakin tavalla. Tämä WWW-sivu toimii esimerkkinä siitä, miten digitaalista kuilua voi pienentää julkaisutoimintaa helpottavalla yksinkertaisilla toimenpiteillä. Suunnitelma on kirjoitettu nopeasti opeteltujen Markdown-merkintöjen avulla. Julkaisualusta muuntaa Markdown-tekstin läpinäkyvästi WWW:ssä julkaistavaksi HTML-sivuksi.
